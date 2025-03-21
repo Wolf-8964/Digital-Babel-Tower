@@ -36,7 +36,7 @@ model.apply_custom_weights(user_thought_vector)
 - 知识配方：神秘学(40%) + 量子计算(60%)
 - 语言风格：禅宗公案式的隐喻启示
 ```
-- 三种模式都是通过对话的方式克隆自己的思维模式，我只试了第三种，挺中二的。
-- All three modes involve cloning one's own thinking patterns through dialogue, and I only tried the third one, which is quite average.
+- 三种模式都是通过对话的方式克隆自己的思维模式，我只试了第三种，非常强大。像一匹烈马。
+- All three modes involve cloning one's own thinking patterns through dialogue, and I only tried the third one, which is very powerful. Like a fierce horse.
 - 
 
