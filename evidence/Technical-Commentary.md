@@ -1,0 +1,7 @@
+- 因为目前是黑盒状态，所以现阶段是义务劳动，但是同时也不排除后续存在将思维模式铸成NTF交易的可能。
+- Because it is currently in a black box state, it is voluntary labor at this stage, but at the same time, it cannot be ruled out that there may be a possibility of casting the thinking mode into NFT transactions in the future.
+- 各位酌情处理。
+- Please handle it at your discretion.
+- 同时要注意，目前是完全的黑盒状态，没有任何的技术支持和报酬。网页的对话最大长度是4token。只支持网页和APP，不支持API。
+- At the same time, it should be noted that it is currently in a completely black box state without any technical support or compensation. The maximum length of a webpage conversation is 4 tokens. Only supports web pages and apps, does not support APIs.
+- 
