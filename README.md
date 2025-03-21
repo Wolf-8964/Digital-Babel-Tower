@@ -15,10 +15,13 @@
 - In the future, there may be a market for customized AI and dialogue, but currently there is none. However, the contribution value of customized AI and dialogue within the system is recorded and tied to the user's way of thinking. Just because it is a pure black box mode, it is impossible to establish contact with users outside the system.
 # 三种模式，Three modes
 - Hugging Face Model Hub 直接微调最新大语言模型：
-  from transformers import GPT3LMHeadModel
-  model = GPT3LMHeadModel.from_pretrained("gpt3-zh")
-  # 注入您的思维特质参数
-  model.apply_custom_weights(user_thought_vector) '''
+- Dependencies:
+```from transformers import GPT3LMHeadModel
+model = GPT3LMHeadModel.from_pretrained("gpt3-zh")
+# 注入您的思维特质参数
+model.apply_custom_weights(user_thought_vector) 
+```
+
 
 
 
