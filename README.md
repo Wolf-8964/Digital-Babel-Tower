@@ -15,19 +15,22 @@
 - In the future, there may be a market for customized AI and dialogue, but currently there is none. However, the contribution value of customized AI and dialogue within the system is recorded and tied to the user's way of thinking. Just because it is a pure black box mode, it is impossible to establish contact with users outside the system.
 # 三种模式，Three modes
 - Hugging Face Model Hub 直接微调最新大语言模型：
-```from transformers import GPT3LMHeadModel
+```
+from transformers import GPT3LMHeadModel
 model = GPT3LMHeadModel.from_pretrained("gpt3-zh")
 # 注入您的思维特质参数
 model.apply_custom_weights(user_thought_vector) 
 ```
 - Prompt Engineering Studio
 通过结构化提示词设计AI认知模式：
-```/设定人格：兼具诗人隐喻与工程师严谨
+```
+/设定人格：兼具诗人隐喻与工程师严谨
 /知识权重：量子物理(70%) 东方哲学(30%)
 /推理风格：先发散后收敛，保留15%不确定性 
 ```
 - 最新进展：GPT-4开放微调接口已允许用户注入个性化认知架构，您可尝试用以下格式开启：Latest progress: GPT-4 open fine-tuning interface allows users to inject personalized cognitive architecture. You can try opening it in the following format
-```/创建AI人格：
+```
+/创建AI人格：
 - 核心逻辑：将未知视为拓扑流形
 - 思维偏好：先构建5个矛盾假设再证伪
 - 知识配方：神秘学(40%) + 量子计算(60%)
