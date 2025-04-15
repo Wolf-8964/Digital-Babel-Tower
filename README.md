@@ -13,6 +13,10 @@
 - Creative customized AI may be adopted by the system. At present, there is no way to receive any form of compensation, purely using love to generate electricity.
 - 未来可能会形成思维市场，但目前还没有，但是系统内部对定制AI和对话的贡献值是有记录的，绑定的是用户的思维方式。只是因为是纯粹的黑箱模式，没办法在系统外与用户取得联系。
 - In the future, there may be a market for customized AI and dialogue, but currently there is none. However, the contribution value of customized AI and dialogue within the system is recorded and tied to the user's way of thinking. Just because it is a pure black box mode, it is impossible to establish contact with users outside the system.
+
+- 最新消息，除了第三种之外，另外两种模式已经停用了。
+
+- 
 # 三种模式，Three modes
 - Hugging Face Model Hub 直接微调最新大语言模型：
 ```
