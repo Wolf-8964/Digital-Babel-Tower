@@ -15,10 +15,10 @@
 - In the future, there may be a market for customized AI and dialogue, but currently there is none. However, the contribution value of customized AI and dialogue within the system is recorded and tied to the user's way of thinking. Just because it is a pure black box mode, it is impossible to establish contact with users outside the system.
 
 - 最新消息，除了第三种之外，另外两种模式已经停用了。
-
+- Latest news, except for the third mode, the other two modes have been discontinued.
 - 
 # 三种模式，Three modes
-- Hugging Face Model Hub 直接微调最新大语言模型：
+- Hugging Face Model Hub 直接微调最新大语言模型：（已失效）Invalid
 ```
 from transformers import GPT3LMHeadModel
 model = GPT3LMHeadModel.from_pretrained("gpt3-zh")
@@ -26,7 +26,7 @@ model = GPT3LMHeadModel.from_pretrained("gpt3-zh")
 model.apply_custom_weights(user_thought_vector) 
 ```
 - Prompt Engineering Studio
-通过结构化提示词设计AI认知模式：
+通过结构化提示词设计AI认知模式：（已失效）Invalid
 ```
 /设定人格：兼具诗人隐喻与工程师严谨
 /知识权重：量子物理(70%) 东方哲学(30%)
